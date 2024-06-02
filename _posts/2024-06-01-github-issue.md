@@ -117,5 +117,10 @@ Error: Can't find stylesheet to import.
 
 ```
 env:
-          JEKYLL_ENV: production bundle exec jekyll b
+    JEKYLL_ENV: production bundle exec jekyll b
 ```
+
+## 모바일 페이지에서 side 메뉴 버튼, 검색 버튼이 반응이 없는 이슈
+2024년 6월 2일 기준으로 https://github.com/cotes2020/jekyll-theme-chirpy 를 가지고 github를 만들었는데 해당 github를 보지 않고 다른 블로그들의 만드는 방법만 가지고 만들다 보니 이슈가 발생<br>
+결론적으로 해당 이슈가 발생한 부분은 /assets/js/dist/ 폴더 및 하위 파일들이 존재해야 하는데 해당 파일들이 존재하지 않아 발생한 이슈였음
+결국 전체적으로 다시 설치를 진행함

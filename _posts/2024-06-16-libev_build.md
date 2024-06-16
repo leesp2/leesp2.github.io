@@ -13,7 +13,7 @@ tags: [opensource, libev]
 libev는 고성능 이벤트 루프를 구현하는 라이브러리이다.<br>
 이벤트 루프를 통해서 개발을 하거나 많은 opensource에서 해당 라이브러리를 이용해서 개발이 되고 있다.
 
-[libev 다운로드 경로](http://dist.schmorp.de/libev/)<br>
+http://dist.schmorp.de/libev/<br>
 해당 위치에서 libev 최신 버전 링크 주소를 복사해서 wget을 통해서 로컬에 다운로드한다.<br>
 <br>
 libev 다운로드

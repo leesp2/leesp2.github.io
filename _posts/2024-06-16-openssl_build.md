@@ -3,7 +3,7 @@ title: linux에서 openssl 빌드를 통해 라이브러리 얻는 방법
 description: >-
   linux에서 openssl 빌드를 통해 라이브러리 얻는 방법
 author: leesp2
-date: 2024-06-09 15:45:00 +0900
+date: 2024-06-16 15:45:00 +0900
 categories: [opensource, openssl]
 tags: [opensource, openssl]
 ---
